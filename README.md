@@ -3,4 +3,4 @@ Organization meta
 
 ## Acknowledgements
 
-[@frebor](https://github.com/frebro) - For Yllet logo.
+[@frebro](https://github.com/frebro) - For Yllet logo.
